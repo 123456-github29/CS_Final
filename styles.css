@@ -1,0 +1,6 @@
+body {
+    background-image: url('/Users/rushil/Documents/CS_Final/study.jpg'); /* Path to your image file */
+    background-size: cover; /* Ensures the image covers the entire background */
+    background-repeat: no-repeat; /* Prevents the image from repeating */
+    background-position: center center; /* Centers the image */
+}
